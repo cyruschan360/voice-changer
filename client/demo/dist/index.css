@@ -1,0 +1,4 @@
+#open-starting-notice-dialog-checkbox + .dialog-frame,
+.belongings .link.tooltip {
+    display: none;
+}
