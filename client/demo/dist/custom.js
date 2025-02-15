@@ -6,8 +6,8 @@
             item.checked = false;
         });
 
-        if (welcomeMsgCheckbox) {
+        if (welcomeMsgCheckbox.length) {
             clearInterval(timer);
         }
-    }, 1000);    
+    }, 1000);
 })();
