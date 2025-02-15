@@ -1,3 +1,7 @@
+body {
+    background: none !important;
+}
+
 #open-starting-notice-dialog-checkbox + .dialog-frame,
 .belongings .link.tooltip,
 .config-area:nth-child(3) {
