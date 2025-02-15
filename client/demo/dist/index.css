@@ -1,4 +1,5 @@
 #open-starting-notice-dialog-checkbox + .dialog-frame,
-.belongings .link.tooltip {
+.belongings .link.tooltip,
+.config-area:nth-child(3) {
     display: none;
 }
